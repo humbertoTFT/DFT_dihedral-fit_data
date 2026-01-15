@@ -6,7 +6,7 @@ This repository contains the code and data associated with the manuscript:
 submitted to Journal of Chemical Information and Modeling.
 
 ## Contents
-Eahc molecule files can be found by their respective name in Data folder. 
+Each molecule files can be found by their respective name in Data folder (in AA or CG section). 
 - Molecules structures (.gro)
 - Final molecules topologies with DFT-fitted dihedral (.itp)
 
