@@ -1,0 +1,15 @@
+
+#include "../params/martini_v3.0.0.itp"
+#include "../params/martini_v3.0.0_ions_v1.itp"
+#include "../params/martini_v3.0.0_solvents_v1.itp"
+
+
+#include "prot_CG-14.itp"
+[ system ]
+Protein CG - Iteration 14 /////
+
+[ molecules ]
+ protein_cg     1
+ W           5545
+ NA            47
+ CL            44
