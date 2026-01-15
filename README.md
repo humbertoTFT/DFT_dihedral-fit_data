@@ -8,7 +8,7 @@ submitted to Journal of Chemical Information and Modeling.
 ## Contents
 Molecules files with standard Gromacs format can be found by their respective name in Data folder (in AA or CG section).  
 - Molecules structures (.gro)
-- Final molecules topologies with DFT-fitted dihedral (.itp)
+- Final topologies with DFT-fitted dihedral (.itp)
 
 ## Requirements
 - Gromacs 2021.x
