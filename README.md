@@ -10,6 +10,7 @@ submitted to Journal of Chemical Information and Modeling.
 - Molecules topologies (.itp)
 - Each molecule files used in this work can be found by their name in their respective AA or CG section.
 - Scripts for reproducing the main results
+- - New
 
 ## Requirements
 Gaussian 16
