@@ -1,6 +1,6 @@
 # DFT dihedral fit data
 
-This repository contains the code and data associated with the manuscript:
+This repository contains the data associated with the manuscript:
 
 "Discrete Fourier Transform Enables Automated Parametrization of Complex Dihedral Potentials in All-Atom and Coarse-Grained Force Fields"
 submitted to Journal of Chemical Information and Modeling.
